@@ -41,7 +41,7 @@ p{
 
 a{
   font-size: 16 px;
-  color: #C12258;
+  color: #b21f50;
   text-decoration: underline wavy
 }
 
@@ -57,7 +57,7 @@ table{
   background-color: #7e0820;
   color: #FFFFFF;
   padding: 10px 10px 10px 10px;
-  min-width: 125 px;
+  min-width: 125px;
   margin-left: auto;
   margin-right: auto;
   vertical-align: middle;
